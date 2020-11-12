@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Russo+One&display=swap');
+/* font-family: 'Russo One', sans-serif; */
+
+@import url('https://fonts.googleapis.com/css2?family=Wallpoet&display=swap');
+/* font-family: 'Wallpoet', cursive; */
+
+
+
+h1 {
+    font-family: 'Wallpoet', cursive;
+    color: #fafafa;
+    font-weight: 100;
+}
